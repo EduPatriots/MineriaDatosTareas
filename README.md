@@ -9,6 +9,7 @@ pip install matplotlib
 pip install numpy
 pip install tabulate
 pip install statsmodels
+pip install lxml
 ```
 
 Adicionalmente, se debe descargar la API key desde la sección account en Kaggle, dando click en Create New Api Token
