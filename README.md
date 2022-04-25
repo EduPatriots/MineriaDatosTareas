@@ -5,6 +5,7 @@ Para ejecutar el proyecto hay que instalar las librerías de los siguientes coma
 ```
 pip install kaggle
 pip install pandas
+pip install matplotlib
 ```
 
 Adicionalmente, se debe descargar la API key desde la sección account en Kaggle, dando click en Create New Api Token
