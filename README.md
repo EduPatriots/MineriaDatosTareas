@@ -7,6 +7,8 @@ pip install kaggle
 pip install pandas
 pip install matplotlib
 pip install numpy
+pip install tabulate
+pip install statsmodels
 ```
 
 Adicionalmente, se debe descargar la API key desde la sección account en Kaggle, dando click en Create New Api Token
